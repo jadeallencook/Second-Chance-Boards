@@ -139,7 +139,7 @@ Default Theme
 	color: #fff;
 	font-size: 16px;
 	z-index: 999;
-	display: none;
+    display: inline-block;
 }
 
 /* If an image is wrapped in a link */
